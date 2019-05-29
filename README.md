@@ -100,3 +100,5 @@ prototypal inheritance. You were also shown a common pattern in later versions
 of JavaScript: wrapping ugly or clumsy syntax in cleaner syntax ("syntactic
 sugar"). In the remainder of this section we're going to show
 you how to create prototypal classes and instances in JavaScript.
+
+[KPCOFGS]: https://www.acronymfinder.com/King-Philip-Came-Over-For-Good-Spaghetti-(mnemonic-for-taxonomy-order%3A-Kingdom%2C-Phylum%2C-Class%2C-Order%2C-Family%2C-Genus%2C-Species)-(KPCOFGS).html
