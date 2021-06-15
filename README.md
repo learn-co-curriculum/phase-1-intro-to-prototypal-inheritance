@@ -1,4 +1,4 @@
-# Introduction to Prototypal Inheritance
+# Prototypal Inheritance
 
 ## Learning Goals
 
